@@ -1,0 +1,92 @@
+# LOGOS — Book 0 & Book I
+
+**Author:** Heath Sanchez  
+**Status:** Preprint / Working Manuscript  
+**License:** CC BY 4.0 (unless otherwise noted)
+
+---
+
+## Overview
+
+This repository hosts **Book 0** and **Book I** of the **LOGOS framework**, a unified theoretical program proposing a single selection operator—*H-tilt*—that appears across physics, information theory, evolutionary dynamics, and cognition.
+
+The core idea is that many systems traditionally treated as distinct (quantum measurement, Darwinian selection, Bayesian inference, thermodynamics, learning, and consciousness) can be described using the same exponential deformation of a baseline distribution by a viability / meaning functional.
+
+---
+
+## Book Structure
+
+### **Book 0 — Foundations**
+**Purpose:** Ontology, definitions, and first principles
+
+Book 0 establishes:
+- The minimal assumptions required for LOGOS
+- The definition of the *viability / meaning functional* \( h \ see PDF \)
+- The exponential selection rule (H-tilt)
+- Regime structure (equilibrium, critical, living-fractal, chaotic, etc.)
+- Why selection precedes dynamics, not the other way around
+
+This volume is largely conceptual and axiomatic, intended to clarify *what kind of object* LOGOS is.
+
+---
+
+### **Book I — Formalism**
+**Purpose:** Mathematics, identities, and consequences
+
+Book I develops:
+- The H-tilt probability deformation
+- Normalization, thermodynamic identities, and limits
+- β-dynamics and feedback (selection recursion)
+- Connections to:
+  - Statistical mechanics
+  - Bayesian inference
+  - Quantum Darwinism
+  - Learning and adaptive systems
+- Concrete instantiations of the functional \( h \) across domains
+
+This volume is mathematical and technical.
+
+---
+
+## Files
+
+- `Book_0_LOGOS.pdf` — Foundations & ontology  
+- `Book_I_LOGOS.pdf` — Formal development & results  
+
+(Versioned releases are used to ensure stable citation.)
+
+---
+
+## Intended Audience
+
+- Physicists (statistical mechanics, quantum foundations)
+- Information theorists
+- Researchers in complex systems and emergence
+- Cognitive science / consciousness researchers
+- Mathematically inclined readers interested in unification
+
+The work assumes comfort with probability, entropy, and basic thermodynamics.
+
+---
+
+## Citation
+
+If referencing this work, please cite the GitHub release or archived DOI (if available).
+
+
+
+---
+
+## Status & Scope
+
+This is **not** a popular exposition and **not** a finalized textbook.  
+It is a living research document intended to invite scrutiny, falsification, and extension.
+
+Comments, replication attempts, and critical feedback are welcome.
+
+---
+
+## Contact
+
+Questions or discussion can be opened as GitHub Issues.
+
