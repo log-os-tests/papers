@@ -1,4 +1,4 @@
-# LOGOS — Book 0 & Book I
+# LOGOS Framework — Core Volumes and Related Manuscripts
 
 **Author:** Heath Sanchez  
 **Status:** Preprint / Working Manuscript  
@@ -8,43 +8,82 @@
 
 ## Overview
 
-This repository hosts **Book 0** and **Book I** of the **LOGOS framework**, a unified theoretical program proposing a single selection operator—*H-tilt*—that appears across physics, information theory, evolutionary dynamics, and cognition.
+This repository hosts the core volumes of the **LOGOS framework** (Book 0 and Book I), a unified theoretical program proposing a single selection operator—*H-tilt*—that appears across physics, information theory, evolutionary dynamics, and cognition. It also includes **Book II** of the companion series *The Book of Life*, which provides physical grounding for the abstract formalism.
 
-The core idea is that many systems traditionally treated as distinct (quantum measurement, Darwinian selection, Bayesian inference, thermodynamics, learning, and consciousness) can be described using the same exponential deformation of a baseline distribution by a viability / meaning functional.
+Additionally, this repository contains related manuscripts that extend or apply the framework:
+- "The Thermodynamic Arrow of Time from Conditioning on Admissible Continuation" (explores emergent irreversibility via continuation conditioning).
+- "Scale-Stratified Organizational Signatures Across Quantum, Biological, and Social Systems" (main manuscript and supplementary information, validating H-Tilt across domains).
+
+The core idea is that many systems traditionally treated as distinct (quantum measurement, Darwinian selection, Bayesian inference, thermodynamics, learning, and consciousness) can be described using the same exponential deformation of a baseline distribution by a viability / meaning functional. These works demonstrate emergence from physical dynamics, without additional ontological assumptions, and provide empirical validation across scales.
 
 ---
 
-## Book Structure
+## Document Structure
 
-### **Book 0 — Foundations**
+### **Book 0 — Foundations** (LOGOS)
 **Purpose:** Ontology, definitions, and first principles
 
 Book 0 establishes:
 - The minimal assumptions required for LOGOS
-- The definition of the *viability / meaning functional* \( h \ see PDF \)
+- The definition of the *viability / meaning functional* \( h \)
 - The exponential selection rule (H-tilt)
 - Regime structure (equilibrium, critical, living-fractal, chaotic, etc.)
 - Why selection precedes dynamics, not the other way around
 
-This volume is largely conceptual and axiomatic, intended to clarify *what kind of object* LOGOS is.
+This volume is largely conceptual and axiomatic.
 
 ---
 
-### **Book I — Formalism**
+### **Book I — Formalism** (LOGOS)
 **Purpose:** Mathematics, identities, and consequences
 
 Book I develops:
 - The H-tilt probability deformation
 - Normalization, thermodynamic identities, and limits
 - β-dynamics and feedback (selection recursion)
-- Connections to:
-  - Statistical mechanics
-  - Bayesian inference
-  - Quantum Darwinism
-  - Learning and adaptive systems
+- Connections to statistical mechanics, Bayesian inference, Quantum Darwinism, learning, and adaptive systems
 - Concrete instantiations of the functional \( h \) across domains
 
 This volume is mathematical and technical.
+
+---
+
+### **Book II — Dynamics and Physical Grounding of Continuation** (*The Book of Life*)
+**Purpose:** Derivation from physical principles
+
+Book II grounds the abstract structure of continuation in real dynamics:
+- Viability as arising from trajectory-level stability and minimization of dissipation
+- Physical realizations of the viability functional (entropy production, free energy, surprisal, etc.)
+- The selection parameter β as gain/precision (e.g., inverse temperature)
+- Recursive regulation via feedback mechanisms
+- Expansion of possibility spaces from predictive failure
+- Conclusion: The conditions of Book I are the necessary consequence of enduring physical systems
+
+No additional ontology is introduced.
+
+---
+
+### **Manuscript: The Thermodynamic Arrow of Time from Conditioning on Admissible Continuation**
+**Purpose:** Derivation of irreversibility
+
+This manuscript shows that conditioning stochastic dynamics on admissible continuation induces effective drift and a strict arrow of time, even in force-free, time-reversible systems. Using the Doob h-transform:
+- Emergent force proportional to the gradient of a continuation function
+- Monotonic increase of a continuation functional
+- Subsumes thermodynamic irreversibility without entropy postulates or special initial conditions
+
+Dated December 2025.
+
+---
+
+### **Manuscript: Scale-Stratified Organizational Signatures Across Quantum, Biological, and Social Systems**
+**Purpose:** Empirical validation of H-Tilt
+
+This main manuscript introduces H-Tilt as a measure of integrated information structure, validated across quantum, biological, and social systems using 76 measurements (>20 orders of magnitude). Key findings:
+- h-values stratify by scale (micro: h ≈1.3; macro: h ≈1.1)
+- Connections to criticality, consciousness, and multi-scale integration
+- Falsifiable predictions for anesthesia, disorders of consciousness, etc.
+
+Includes supplementary information with mathematical details, robustness analyses, domain-specific methods, and extended results.
 
 ---
 
@@ -52,6 +91,10 @@ This volume is mathematical and technical.
 
 - `Book_0_LOGOS.pdf` — Foundations & ontology  
 - `Book_I_LOGOS.pdf` — Formal development & results  
+- `The_Book_of_Life_(Book_II).pdf` — Dynamics and physical grounding  
+- `Arrow_of_Time.pdf` — Thermodynamic arrow from continuation conditioning  
+- `1_manuscript_main.pdf` — Scale-stratified signatures main manuscript  
+- `2_supplementary_information.pdf` — Supplementary information for scale-stratified manuscript  
 
 (Versioned releases are used to ensure stable citation.)
 
@@ -61,19 +104,17 @@ This volume is mathematical and technical.
 
 - Physicists (statistical mechanics, quantum foundations)
 - Information theorists
-- Researchers in complex systems and emergence
-- Cognitive science / consciousness researchers
-- Mathematically inclined readers interested in unification
+- Researchers in complex systems, emergence, and active inference
+- Cognitive scientists and consciousness researchers
+- Mathematically inclined readers interested in theoretical unification
 
-The work assumes comfort with probability, entropy, and basic thermodynamics.
+The work assumes familiarity with probability, entropy, basic thermodynamics, and related concepts.
 
 ---
 
 ## Citation
 
 If referencing this work, please cite the GitHub release or archived DOI (if available).
-
-
 
 ---
 
@@ -90,3 +131,4 @@ Comments, replication attempts, and critical feedback are welcome.
 
 Questions or discussion can be opened as GitHub Issues.
 
+Or email: h.sanchez@log-os.dev
